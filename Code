@@ -12,24 +12,7 @@
         <script
         src="https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"></script>
     </head>
-    <style>
-        body, html {
-            height: 100%;
-        }
-
-        .bg {
-            /* The image used */
-            background-image: url("https://images3.alphacoders.com/823/thumb-1920-82317.jpg");
-
-            /* Full height */
-            height: 100%;
-
-            /* Center and scale the image nicely */
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-    </style>
+    
     <body>
         <div class="container">
             <h2>Product Details</h2>
